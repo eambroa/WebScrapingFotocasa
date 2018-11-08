@@ -1,5 +1,4 @@
-# WebScrapingFotocasa
-Web Scraping de la web Fotocasa
+
 # Práctica 1:'Fotocasa Web-scraping'
 
 - Descripción.
