@@ -30,7 +30,7 @@
     
     -url: página del anuncio
     
-    -imgurl:la url de imagene principal
+    -imgurl: la url de imagen principal
     
     Finalmente se genera un csv con estos datos y una carpeta con la imágen principal de cada inmueble.
     
