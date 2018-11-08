@@ -32,7 +32,7 @@
     
     -imgurl: la url de imagen principal
     
-    Finalmente se genera un csv con estos datos y una carpeta con la imágen principal de cada inmueble.
+    Finalmente se genera un csv con estos datos y una carpeta con la imagen principal de cada inmueble.
     
 - Inspiración.
 
