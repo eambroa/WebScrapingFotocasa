@@ -8,6 +8,7 @@
 - Contexto.
 
    La materia de datos recogidos hace referencia a las características de los inmuebles a la venta en la provincia de Lugo.
+   
 - Contenido.
 
    Se recogen todos los datos de los anuncios disponibles hasta la fecha. Cuando un inmueble se vende su anuncio se elimina, por lo que   no tiene cabida buscar en un rango de fechas.
@@ -28,6 +29,10 @@
     -Phone: teléfono de contacto
     
     -url: página del anuncio
+    
+    -imgurl:la url de imagene principal
+    
+    Finalmente se genera un csv con estos datos y una carpeta con la imágen principal de cada inmueble.
     
 - Inspiración.
 
