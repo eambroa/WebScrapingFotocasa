@@ -7,7 +7,7 @@
 
 - Contexto.
 
-   La materia de datos recogidos hace referencia a las características de los inmuebles a la venta en la provincia de Lugo.
+   La materia de datos recogidos hace referencia a las características de los inmuebles a la venta en Lugo capital.
    
 - Contenido.
 
